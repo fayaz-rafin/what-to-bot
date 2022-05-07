@@ -7,6 +7,9 @@ from discord import embeds
 import aiohttp
 import requests
 import json
+from dotenv import load_dotenv
+load_dotenv()
+
 
 client = commands.Bot(description="test", command_prefix="$")
 
@@ -14,7 +17,6 @@ client = commands.Bot(description="test", command_prefix="$")
 async def on_ready():
     print("I'm powered up and ready to go!")
 
-client.run('OTcyNTEzNzUwNjgwNzM5ODQx.YnaKAg.zJxUH6_wgF4dZN4hvPmDE2TbSOU')
-
+client.run (os.getenv("TOKEN"))
 
 
