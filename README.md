@@ -1,5 +1,5 @@
 # What to Bot
-What to cook is a recipe generator that gives the user a random recipe for whatever meal they want to have.
+A bot that generates a random solution to your doubts
 
 ## Inspiration
 During RU Hacks, we were having a hard time deciding what to code for the hackathon as there were many ideas circulating through our minds. In one of our brainstorm sessions, we wondered, what if there was a bot that could tell us what to code, or even what to cook food or give movie recommendations. That's why we created a discord bot that would recommend us things to do when we're in doubt.
