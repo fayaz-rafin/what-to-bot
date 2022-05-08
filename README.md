@@ -23,4 +23,5 @@ We learned python and how to read/write json files.
 In the future, we will implement a feature where a user cannot just ask for recommendations but also add their own suggestions to our json files so our existing data increases and we can get more recommendations.
 
 ##Link to out bot
+---
 [link](https://discord.com/api/oauth2/authorize?client_id=972513750680739841&permissions=534723951680&scope=bot)
